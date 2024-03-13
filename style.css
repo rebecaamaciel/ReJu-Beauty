@@ -5,3 +5,7 @@
 body{
     background-color: var(--cor-de-fundo);
 }
+
+    #banh{
+    width: 50%;
+    }    
