@@ -22,3 +22,7 @@ div{
    #banh{
     width: 50%;
     }    
+
+    .introducao{
+        display: flex;
+    }
