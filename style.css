@@ -6,6 +6,19 @@ body{
     background-color: var(--cor-de-fundo);
 }
 
-    #banh{
+img{
+    width: 10%;
+}
+header{
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: column;
+}
+
+div{
+    display: flex;
+}
+   #banh{
     width: 50%;
     }    
