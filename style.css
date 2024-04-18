@@ -1,28 +1,31 @@
-:root{
+:root {
     --cor-de-fundo: rgb(235, 166, 177);
 
 }
-body{
+
+body {
     background-color: var(--cor-de-fundo);
 }
 
-img{
+img {
     width: 10%;
 }
-header{
+
+header {
     display: flex;
-   align-items: center;
-   justify-content: space-around;
-   flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
 }
 
-div{
+div {
     display: flex;
 }
-   #banh{
+
+.banho {
     width: 50%;
-    }    
+}
 
-    .introducao{
-        display: flex;
-    }
+.introducao {
+    display: flex;
+}
