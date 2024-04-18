@@ -15,12 +15,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    flex-direction: column;
+
 }
 
-div {
-    display: flex;
-}
 
 .banho {
     width: 50%;
