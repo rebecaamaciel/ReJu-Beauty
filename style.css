@@ -12,9 +12,10 @@ img {
 }
 
 header {
-    display: flex;
+    display: grid;
     align-items: center;
-    justify-content: space-around;
+    grid-template-columns: 80% 20%;
+    text-align: center;
 
 }
 
@@ -28,4 +29,5 @@ header {
 }
 .produto {
     display: flex;
+    justify-content: space-around;
 }
