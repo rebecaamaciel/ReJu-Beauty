@@ -26,3 +26,6 @@ header {
 .introducao {
     display: flex;
 }
+.produto {
+    display: flex;
+}
