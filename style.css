@@ -31,11 +31,11 @@ header {
     display: flex;
     justify-content: space-around;
 }
-.estudante-todos{
+
+
+.Equipe{
     display: grid;
-    .estudante-todos{
-        display: grid;
-        grid-template-columns: 80% 20% 80% 20% ;
-    }
-    
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+
 }
