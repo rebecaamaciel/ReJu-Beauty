@@ -33,6 +33,10 @@ header {
 }
 
 
+.produto{
+    display: grid;
+    grid-template-columns: 50% 50% 50% 50%;
+}
 .Equipe{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
