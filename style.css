@@ -33,7 +33,7 @@ header {
 }
 
 
-.produto{
+.produtos{
     display: grid;
     grid-template-columns: 50% 50% 50% 50%;
 }
@@ -43,4 +43,7 @@ header {
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
 
+}
+.FOTO-DA-EQUIPE{
+    width: 3;
 }
