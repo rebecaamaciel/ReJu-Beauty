@@ -67,3 +67,9 @@ header {
     font-style: normal;
     font-size: 76px;
 }
+
+.produtos-div{
+    background-color: gray;
+    margin: 0 80px;
+    padding-top: 20px;
+}
