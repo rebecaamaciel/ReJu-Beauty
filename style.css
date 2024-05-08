@@ -74,3 +74,9 @@ header {
     margin: 0 80px;
     padding-top: 20px;
 }
+
+footer{
+    background-color: #AB7E9E;
+
+    padding: 20px;
+}
