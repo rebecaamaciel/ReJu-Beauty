@@ -26,6 +26,9 @@ header {
 
 .introducao {
     display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-bottom: 50px;
 }
 .produto {
     display: flex;
